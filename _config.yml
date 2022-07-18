@@ -1,6 +1,5 @@
 theme: jekyll-theme-minimal
 title: Eglantine Karlé
-description: >
-  Ph.D. Student 
-  Inria Lille - Nord Europe 
-  eglantine.karle@inria.fr
+description: Ph.D. Student 
+institution: Inria Lille - Nord Europe 
+email: eglantine.karle@inria.fr
