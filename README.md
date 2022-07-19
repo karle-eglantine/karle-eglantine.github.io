@@ -18,12 +18,12 @@ You can find more information about me in my CV.
 
 ## Teaching
 
-# 2021/2022
+### 2021/2022
 - TD de Statistiques Computationnelles, M1 MA parcours ISN, Université de Lille
 - TD/TP de Modélisation Statistique, M1 MA parcours ISN, Université de Lille
 - TD de Mathématiques Générales, L1 SESI, Université de Lille
 
-# 2020/2021
+### 2020/2021
 - TD de Statistiques Computationnelles, M1 MA parcours ISN, Université de Lille
 - TD/TP de Modélisation Statistique, M1 MA parcours ISN, Université de Lille
 - TD de Mathématiques Générales, L1 SESI, Université de Lille
